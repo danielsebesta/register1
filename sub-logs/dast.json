@@ -1,0 +1,11 @@
+{
+  "repo": "",
+  "owner": {
+    "username": "danielsebesta",
+    "email": "dast@duck.com"
+  },
+  "target": {
+    "A": "194.163.149.155"
+  },
+  "proxied": true
+}
